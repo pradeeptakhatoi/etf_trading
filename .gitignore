@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Generated screenshots
+ss_*.png
+screenshot_overview.png
